@@ -1,8 +1,0 @@
-version: 0.2
-
-phases:
-  build:
-    commands:
-      - printenv
-      - docker build -t ngx-smart-popover-e2e-tests .
-      - docker run -v $(pwd):/usr/src/app --rm ngx-smart-popover-e2e-tests
