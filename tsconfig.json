@@ -18,11 +18,11 @@
         "dom"
       ],
       "paths": {
-        "ngx-smart-popover": [
-          "dist/ngx-smart-popover"
+        "ev-popover": [
+          "dist/ev-popover"
         ],
-        "ngx-smart-popover/*": [
-          "dist/ngx-smart-popover/*"
+        "ev-popover/*": [
+          "dist/ev-popover/*"
         ]
       },
       "useDefineForClassFields": false

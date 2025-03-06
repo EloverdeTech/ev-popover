@@ -1,9 +1,9 @@
 {
-  "name": "ngx-smart-popover-demo",
-  "version": "1.5.0",
+  "name": "ev-popover-demo",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
-    "build-lib": "ng build ngx-smart-popover"
+    "build-lib": "ng build ev-popover"
   },
   "private": true,
   "dependencies": {

@@ -3,17 +3,17 @@
     "version": 1,
     "newProjectRoot": "projects",
     "projects": {
-        "ngx-smart-popover": {
-            "root": "projects/ngx-smart-popover",
-            "sourceRoot": "projects/ngx-smart-popover/src",
+        "ev-popover": {
+            "root": "projects/ev-popover",
+            "sourceRoot": "projects/ev-popover/src",
             "projectType": "library",
             "prefix": "lib",
             "architect": {
                 "build": {
                     "builder": "@angular-devkit/build-angular:ng-packagr",
                     "options": {
-                        "tsConfig": "projects/ngx-smart-popover/tsconfig.lib.json",
-                        "project": "projects/ngx-smart-popover/ng-package.json"
+                        "tsConfig": "projects/ev-popover/tsconfig.lib.json",
+                        "project": "projects/ev-popover/ng-package.json"
                     }
                 }
             }
