@@ -1,5 +1,5 @@
 /*
- * Public API Surface of ngx-smart-popover
+ * Public API Surface of ev-popover
  */
 
 export * from './lib/popover.module';

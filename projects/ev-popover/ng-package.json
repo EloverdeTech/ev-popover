@@ -1,6 +1,6 @@
 {
     "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-    "dest": "../../dist/ngx-smart-popover",
+    "dest": "../../dist/ev-popover",
     "lib": {
         "entryFile": "src/public_api.ts"
     }
